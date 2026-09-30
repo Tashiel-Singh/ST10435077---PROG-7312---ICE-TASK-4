@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="EmergencyDepartmentSystem.App/EmergencyDepartmentSystem.App.csproj" />
+  <Project Path="EmergencyDepartmentSystem.Cli/EmergencyDepartmentSystem.Cli.csproj" />
+  <Project Path="EmergencyDepartmentSystem.Core/EmergencyDepartmentSystem.Core.csproj" />
+  <Project Path="EmergencyDepartmentSystem.Tests/EmergencyDepartmentSystem.Tests.csproj" />
+</Solution>
